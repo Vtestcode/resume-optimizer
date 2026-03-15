@@ -47,3 +47,4 @@ The app opens at `http://localhost:8501`.
 
 The UI does not expose configuration fields. It reads `OPENAI_API_KEY` from the environment and uses `OPENAI_MODEL` if set, otherwise defaults to `gpt-4o`.
 
+

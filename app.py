@@ -1384,4 +1384,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    from web_app import main as web_main
+    web_main()
